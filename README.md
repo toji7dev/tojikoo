@@ -1,5 +1,5 @@
 # :comet: Hi, I'm Luka
-- 🔭 Actually working on __my_radar__, and __osint tools__.
+- 🔭 Actually working on __osint tools__.
 - 🎓 First year at __Epitech school__.
 - 📫 How to contact me : luka.moreau@epitech.eu
 - 🌏 I speak __French__, __English__ and __Japanese__.
