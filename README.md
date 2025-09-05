@@ -1,8 +1,8 @@
 # :comet: Hi, I'm Luka
-- 🔭 Actually working on __osint tools__.
-- 🎓 First year at __Epitech school__.
+- 🔭 Actually working on my internship at __https://www.osiris-agriculture.fr__.
+- 🎓 Second year at __Epitech school__.
 - 📫 How to contact me : luka.moreau@epitech.eu
-- 🌏 I speak __French__, __English__ and __Japanese__.
+- 💻 I'm also learning __cybersecurity__.
 
 
 # 💻 Tech Stack:
