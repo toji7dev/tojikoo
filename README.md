@@ -1,5 +1,4 @@
 # :comet: Hi, I'm Luka
-- 🔭 Actually working on my internship at __https://www.osiris-agriculture.fr__.
 - 🎓 Second year at __Epitech school__.
 - 📫 How to contact me : luka.moreau@epitech.eu
 - 💻 I'm also learning __cybersecurity__.
